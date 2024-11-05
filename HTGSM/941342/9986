@@ -1,0 +1,15 @@
+2024-11-06T10:10:12Z, INFO, UserLogin, UserID: user1501, IP: 192.168.16.1, Status: Successful
+2024-11-06T10:20:34Z, WARN, CrossSiteScriptingAttempt, UserID: unknown, IP: 192.168.16.10, Script: "<script>alert('XSS')</script>"
+2024-11-06T10:30:22Z, INFO, FileAccess, UserID: user1502, File: /documents/info.txt, Action: Read
+2024-11-06T10:40:11Z, ERROR, UnauthorizedAccess, UserID: user1503, IP: 192.168.16.15, Resource: /admin/login, Status: Denied
+2024-11-06T10:50:45Z, INFO, UserLogout, UserID: user1501, IP: 192.168.16.1, Status: Successful
+2024-11-06T11:00:56Z, INFO, SystemUpdate, Version: 15.13.3, Components: Kernel, Status: Successful
+2024-11-06T11:10:00Z, WARN, MalwareDetected, UserID: N/A, IP: 192.168.16.20, File: /temp/virus.exe
+2024-11-06T11:20:12Z, INFO, UserLogin, UserID: user1504, IP: 192.168.16.25, Status: Successful
+2024-11-06T11:30:33Z, INFO, FileAccess, UserID: user1502, File: /documents/budget.xlsx, Action: Edit
+2024-11-06T11:40:14Z, ERROR, UnauthorizedAccess, UserID: user1505, IP: 192.168.16.30, Resource: /confidential/data, Status: Denied
+2024-11-06T11:50:22Z, INFO, UserLogout, UserID: user1504, IP: 192.168.16.25, Status: Successful
+2024-11-06T12:00:38Z, INFO, SystemUpdate, Version: 15.13.4, Components: All, Status: Successful
+2024-11-06T12:10:43Z, WARN, CrossSiteScriptingAttempt, UserID: unknown, IP: 192.168.16.35, Script: "<script>alert('XSS')</script>"
+2024-11-06T12:20:12Z, INFO, FileAccess, UserID: user1501, File: /documents/report.pdf, Action: Read
+2024-11-06T12:30:52Z, ERROR, UnauthorizedAccess, UserID: user1503, IP: 192.168.16.15, Resource: /admin/settings, Status: Denied

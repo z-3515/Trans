@@ -1,0 +1,15 @@
+2024-11-04T10:10:12Z, INFO, UserLogin, UserID: user1301, IP: 192.168.14.1, Status: Successful
+2024-11-04T10:20:34Z, WARN, DDoSAttackDetected, UserID: N/A, IP: 192.168.14.10, Target: /web/api
+2024-11-04T10:30:22Z, INFO, FileAccess, UserID: user1302, File: /files/info.txt, Action: Read
+2024-11-04T10:40:11Z, ERROR, UnauthorizedAccess, UserID: user1303, IP: 192.168.14.15, Resource: /admin/login, Status: Denied
+2024-11-04T10:50:45Z, INFO, UserLogout, UserID: user1301, IP: 192.168.14.1, Status: Successful
+2024-11-04T11:00:56Z, INFO, SystemUpdate, Version: 13.11.3, Components: Kernel, Status: Successful
+2024-11-04T11:10:00Z, WARN, MalwareDetected, UserID: N/A, IP: 192.168.14.20, File: /temp/virus.exe
+2024-11-04T11:20:12Z, INFO, UserLogin, UserID: user1304, IP: 192.168.14.25, Status: Successful
+2024-11-04T11:30:33Z, INFO, FileAccess, UserID: user1302, File: /files/budget.xlsx, Action: Edit
+2024-11-04T11:40:14Z, ERROR, UnauthorizedAccess, UserID: user1305, IP: 192.168.14.30, Resource: /confidential/data, Status: Denied
+2024-11-04T11:50:22Z, INFO, UserLogout, UserID: user1304, IP: 192.168.14.25, Status: Successful
+2024-11-04T12:00:38Z, INFO, SystemUpdate, Version: 13.11.4, Components: All, Status: Successful
+2024-11-04T12:10:43Z, WARN, DDoSAttackDetected, UserID: N/A, IP: 192.168.14.35, Target: /web/api
+2024-11-04T12:20:12Z, INFO, FileAccess, UserID: user1301, File: /files/report.pdf, Action: Read
+2024-11-04T12:30:52Z, ERROR, UnauthorizedAccess, UserID: user1303, IP: 192.168.14.15, Resource: /admin/settings, Status: Denied

@@ -1,0 +1,15 @@
+2024-10-31T10:10:12Z, INFO, UserLogin, UserID: user901, IP: 192.168.10.1, Status: Successful
+2024-10-31T10:20:34Z, WARN, BruteForceAttempt, UserID: unknown, IP: 192.168.10.10, Attempts: 7
+2024-10-31T10:30:22Z, INFO, FileAccess, UserID: user902, File: /documents/info.txt, Action: Read
+2024-10-31T10:40:11Z, ERROR, UnauthorizedAccess, UserID: user903, IP: 192.168.10.15, Resource: /admin/login, Status: Denied
+2024-10-31T10:50:45Z, INFO, UserLogout, UserID: user901, IP: 192.168.10.1, Status: Successful
+2024-10-31T11:00:56Z, INFO, SystemUpdate, Version: 9.7.3, Components: Kernel, Status: Successful
+2024-10-31T11:10:00Z, WARN, MalwareDetected, UserID: N/A, IP: 192.168.10.20, File: /temp/virus.exe
+2024-10-31T11:20:12Z, INFO, UserLogin, UserID: user904, IP: 192.168.10.25, Status: Successful
+2024-10-31T11:30:33Z, INFO, FileAccess, UserID: user902, File: /documents/budget.xlsx, Action: Edit
+2024-10-31T11:40:14Z, ERROR, UnauthorizedAccess, UserID: user905, IP: 192.168.10.30, Resource: /confidential/data, Status: Denied
+2024-10-31T11:50:22Z, INFO, UserLogout, UserID: user904, IP: 192.168.10.25, Status: Successful
+2024-10-31T12:00:38Z, INFO, SystemUpdate, Version: 9.7.4, Components: All, Status: Successful
+2024-10-31T12:10:43Z, WARN, BruteForceAttempt, UserID: unknown, IP: 192.168.10.35, Attempts: 4
+2024-10-31T12:20:12Z, INFO, FileAccess, UserID: user901, File: /documents/report.pdf, Action: Read
+2024-10-31T12:30:52Z, ERROR, UnauthorizedAccess, UserID: user903, IP: 192.168.10.15, Resource: /admin/settings, Status: Denied

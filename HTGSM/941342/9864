@@ -1,0 +1,15 @@
+2024-11-05T10:10:12Z, INFO, UserLogin, UserID: user1401, IP: 192.168.15.1, Status: Successful
+2024-11-05T10:20:34Z, WARN, SQLInjectionAttempt, UserID: unknown, IP: 192.168.15.10, Query: ' OR '1'='1
+2024-11-05T10:30:22Z, INFO, FileAccess, UserID: user1402, File: /data/info.txt, Action: Read
+2024-11-05T10:40:11Z, ERROR, UnauthorizedAccess, UserID: user1403, IP: 192.168.15.15, Resource: /admin/login, Status: Denied
+2024-11-05T10:50:45Z, INFO, UserLogout, UserID: user1401, IP: 192.168.15.1, Status: Successful
+2024-11-05T11:00:56Z, INFO, SystemUpdate, Version: 14.12.3, Components: Kernel, Status: Successful
+2024-11-05T11:10:00Z, WARN, MalwareDetected, UserID: N/A, IP: 192.168.15.20, File: /tmp/malware.exe
+2024-11-05T11:20:12Z, INFO, UserLogin, UserID: user1404, IP: 192.168.15.25, Status: Successful
+2024-11-05T11:30:33Z, INFO, FileAccess, UserID: user1402, File: /data/budget.xlsx, Action: Edit
+2024-11-05T11:40:14Z, ERROR, UnauthorizedAccess, UserID: user1405, IP: 192.168.15.30, Resource: /confidential/data, Status: Denied
+2024-11-05T11:50:22Z, INFO, UserLogout, UserID: user1404, IP: 192.168.15.25, Status: Successful
+2024-11-05T12:00:38Z, INFO, SystemUpdate, Version: 14.12.4, Components: All, Status: Successful
+2024-11-05T12:10:43Z, WARN, SQLInjectionAttempt, UserID: unknown, IP: 192.168.15.35, Query: ' OR '1'='1
+2024-11-05T12:20:12Z, INFO, FileAccess, UserID: user1401, File: /data/report.pdf, Action: Read
+2024-11-05T12:30:52Z, ERROR, UnauthorizedAccess, UserID: user1403, IP: 192.168.15.15, Resource: /admin/settings, Status: Denied

@@ -1,0 +1,15 @@
+2024-11-07T10:10:12Z, INFO, UserLogin, UserID: user1601, IP: 192.168.17.1, Status: Successful
+2024-11-07T10:20:34Z, WARN, BruteForceAttempt, UserID: unknown, IP: 192.168.17.10, Attempts: 8
+2024-11-07T10:30:22Z, INFO, FileAccess, UserID: user1602, File: /data/info.txt, Action: Read
+2024-11-07T10:40:11Z, ERROR, UnauthorizedAccess, UserID: user1603, IP: 192.168.17.15, Resource: /admin/login, Status: Denied
+2024-11-07T10:50:45Z, INFO, UserLogout, UserID: user1601, IP: 192.168.17.1, Status: Successful
+2024-11-07T11:00:56Z, INFO, SystemUpdate, Version: 16.14.3, Components: Kernel, Status: Successful
+2024-11-07T11:10:00Z, WARN, MalwareDetected, UserID: N/A, IP: 192.168.17.20, File: /tmp/malware.exe
+2024-11-07T11:20:12Z, INFO, UserLogin, UserID: user1604, IP: 192.168.17.25, Status: Successful
+2024-11-07T11:30:33Z, INFO, FileAccess, UserID: user1602, File: /data/budget.xlsx, Action: Edit
+2024-11-07T11:40:14Z, ERROR, UnauthorizedAccess, UserID: user1605, IP: 192.168.17.30, Resource: /confidential/data, Status: Denied
+2024-11-07T11:50:22Z, INFO, UserLogout, UserID: user1604, IP: 192.168.17.25, Status: Successful
+2024-11-07T12:00:38Z, INFO, SystemUpdate, Version: 16.14.4, Components: All, Status: Successful
+2024-11-07T12:10:43Z, WARN, BruteForceAttempt, UserID: unknown, IP: 192.168.17.35, Attempts: 5
+2024-11-07T12:20:12Z, INFO, FileAccess, UserID: user1601, File: /data/report.pdf, Action: Read
+2024-11-07T12:30:52Z, ERROR, UnauthorizedAccess, UserID: user1603, IP: 192.168.17.15, Resource: /admin/settings, Status: Denied
