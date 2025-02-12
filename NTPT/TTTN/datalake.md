@@ -73,11 +73,11 @@
   * **Thách thức**: Đảm bảo hệ thống hoạt động ổn định và đáp ứng yêu cầu người dùng.
   * **Giải pháp**: Tối ưu hóa kiến trúc hệ thống, sử dụng các công nghệ xử lý dữ liệu hiệu quả, giám sát hiệu suất hệ thống.
 
-* **Chi phí triển khai và vận hành**:*
+* **Chi phí triển khai và vận hành:**
   * **Thách thức**: Cân nhắc chi phí đầu tư ban đầu và chi phí duy trì hệ thống.
   * **Giải pháp**: Lựa chọn các công nghệ và nền tảng phù hợp với ngân sách, tối ưu hóa chi phí vận hành.
 
-* **Kỹ năng và nguồn lực**:*
+* **Kỹ năng và nguồn lực:**
   * **Thách thức**: Đảm bảo đội ngũ có đủ kỹ năng để xây dựng và quản lý Data Lake.
   * **Giải pháp**: Đầu tư vào đào tạo và phát triển đội ngũ, thuê chuyên gia tư vấn.
 
