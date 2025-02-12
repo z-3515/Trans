@@ -2,10 +2,6 @@
 
 ---
 
-Chào bạn,
-
-Data Lakehouse đang là một xu hướng mới trong lĩnh vực quản lý và phân tích dữ liệu. Nó kết hợp những ưu điểm của Data Lake và Data Warehouse để tạo ra một nền tảng linh hoạt và mạnh mẽ hơn. Chúng ta sẽ cùng tìm hiểu chi tiết về Data Lakehouse trong phần dưới đây:
-
 ## 1. Khái niệm Data Lakehouse
 
 * **Data Lakehouse là gì?**
@@ -24,6 +20,8 @@ Data Lakehouse đang là một xu hướng mới trong lĩnh vực quản lý v�
 | Khả năng truy vấn | Linh hoạt, hỗ trợ SQL và các ngôn ngữ khác        | Khó khăn hơn trong việc truy vấn dữ liệu có cấu trúc | Dễ dàng truy vấn bằng SQL                     |
 | Khả năng mở rộng  | Dễ dàng mở rộng trên nền tảng đám mây             | Dễ dàng mở rộng trên nền tảng đám mây                | Khó khăn hơn trong việc mở rộng               |
 
+---
+
 ## 2. Vai trò và tầm quan trọng của Data Lakehouse
 
 * **Giải quyết các hạn chế của Data Lake và Data Warehouse:**
@@ -37,6 +35,8 @@ Data Lakehouse đang là một xu hướng mới trong lĩnh vực quản lý v�
   * **Tiết kiệm chi phí**: Giảm chi phí lưu trữ và quản lý dữ liệu so với việc sử dụng cả Data Lake và Data Warehouse.
   * **Hỗ trợ phân tích nâng cao**: Tạo nền tảng cho các hoạt động phân tích dữ liệu chuyên sâu, khám phá tri thức và hỗ trợ ra quyết định.
   * **Tăng tốc độ truy vấn**: Cải thiện tốc độ truy vấn dữ liệu, giúp người dùng nhanh chóng có được thông tin cần thiết.
+
+---
 
 ## 3. Kiến trúc của Data Lakehouse
 
@@ -52,6 +52,8 @@ Data Lakehouse đang là một xu hướng mới trong lĩnh vực quản lý v�
   * **Data Processing Engines**: Các công cụ và nền tảng để xử lý và biến đổi dữ liệu (ví dụ: Apache Spark).
   * **Query Engine**: Công cụ cho phép người dùng truy vấn dữ liệu bằng SQL và các ngôn ngữ khác (ví dụ: Apache Hive, Presto).
   * **BI and Analytics Tools**: Các công cụ hỗ trợ phân tích, trực quan hóa và tạo báo cáo từ dữ liệu (ví dụ: Tableau, Power BI).
+
+---
 
 ## 4. Các công nghệ và nền tảng phổ biến cho Data Lakehouse
 
@@ -77,6 +79,8 @@ Data Lakehouse đang là một xu hướng mới trong lĩnh vực quản lý v�
   * **Tableau**.
   * **Power BI**.
   * **Looker**.
+
+---
 
 ## 5. Ứng dụng của Data Lakehouse
 
